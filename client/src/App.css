@@ -142,6 +142,10 @@ ol{
   color:white;
 }
 
+p{
+  color:white;
+}
+
 @keyframes gradientAnim {
   to {
     background-position: 100% top;
