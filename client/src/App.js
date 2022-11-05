@@ -41,26 +41,27 @@ function App() {
   return (
       <div className="app">
         <header className="app-header">
-          <h1>Productivity Tracker</h1>
+          <h1>Memory Wall</h1>
           <form onSubmit={addActivity}>
             <div className='box'>
-              <label htmlFor="activity">Activity:</label>
+              <label htmlFor="activity">Name : </label>
               <input
                 type="text"
                 id="activity"
                 name="activity"
                 autoComplete="off"
+                placeholder='enter your name'
               />
             </div>
             <div className='box'>
-              <label htmlFor="time">Time Taken:</label>
-              <input type="text" id="time" name="time" autoComplete="off" />
+              <label htmlFor="time">Time  : </label>
+              <input type="text" id="time" name="time" autoComplete="off" placeholder='time of typing' />
             </div>
             <button type="submit">Add</button>
           </form>
         </header>
         <main className="app-main">
-            <h2>Today</h2>
+            <h2>List</h2>
 
           {activities && activities.length > 0 ? (
             <ol>

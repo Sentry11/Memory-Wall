@@ -3,7 +3,7 @@ const express = require("express");
 const {
     getActivities,
     addActivity,
-  } = require("../controllers/activity.controller");
+  } = require("../controlers/activity.controller");
 
   const router = express.Router();
 
