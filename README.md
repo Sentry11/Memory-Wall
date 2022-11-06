@@ -14,6 +14,9 @@ The project, or rather, its client part is hosted on the Netlify service, while 
 Website link: https://memory-wall.netlify.app/  
 
 
-Project images on hosting  
-<img src="https://github.com/Sentry11/media/raw/main/memory wall.png" height="250"/>
+Project images on hosting    
+  
+    
+    
+<img src="https://github.com/Sentry11/media/raw/main/memory wall.png" height="550"/>
 
