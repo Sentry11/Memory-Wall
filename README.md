@@ -18,5 +18,5 @@ Project images on hosting
   
     
     
-<img src="https://github.com/Sentry11/media/raw/main/memory wall.png" height="550"/>
+<img src="https://github.com/Sentry11/media/raw/main/memory wall.png" height="250px"/>
 
